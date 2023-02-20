@@ -1,4 +1,4 @@
-yaho footer!
+
 <!-- BEGIN FOOTER -->
    <section class="p-b-55 p-t-75 xs-p-b-20 bg-master-darker ">
         <div class="container">

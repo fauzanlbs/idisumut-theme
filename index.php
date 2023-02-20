@@ -24,10 +24,10 @@
                       <div class="col-xs-height col-middle text-left">
                         <div class="container">
                           <div class="col-md-6 no-padding col-xs-10 col-xs-offset-1">
-                            <h1 class="light sm-text-center" data-swiper-parallax="-15%"> Create your own front-end with endless possibilities.</h1>
-                            <h4 class="sm-text-center">Save time, save money, look more professional and win more clients.</h4>
-                            <h5 class="block-title text-white sm-text-center">Behind the scenes watch tour</h5>
-                            <p class="fs-12 font-arial hint-text sm-text-center">Available at themeforest, envato market place.</p>
+                            <h1 class="light sm-text-center" data-swiper-parallax="-15%"> IDISUMUT</h1>
+                            <h4 class="sm-text-center">Labore magna do eiusmod culpa veniam deserunt ipsum ad.</h4>
+                            <h5 class="block-title text-white sm-text-center">Officia reprehenderit sunt veniam quis est reprehenderit sunt id velit culpa in</h5>
+                            <p class="fs-12 font-arial hint-text sm-text-center">ut exercitation sunt. Et aute minim voluptate tempor fugiat. Amet id tempor adipisicing aliquip do amet esse elit.</p>
                           </div>
                         </div>
                       </div>
@@ -54,10 +54,10 @@
                       <div class="col-xs-height col-middle text-left">
                         <div class="container">
                           <div class="col-md-6 no-padding col-xs-10 col-xs-offset-1">
-                            <h1 class="light sm-text-center" data-swiper-parallax="-15%"> Twenty & Counting... Unique Website Templates</h1>
-                            <h4 class="sm-text-center">Save time, save money, look more professional and win more clients.</h4>
-                            <h5 class="block-title text-white sm-text-center">Behind the scenes watch tour</h5>
-                            <p class="fs-12 font-arial hint-text sm-text-center">Available at themeforest, envato market place.</p>
+                            <h1 class="light sm-text-center" data-swiper-parallax="-15%"> Magna ex deserunt do est nulla sit Lorem commodo non aliquip dolore. </h1>
+                            <h4 class="sm-text-center">Incididunt aliqua et velit reprehenderit non.</h4>
+                            <h5 class="block-title text-white sm-text-center">Fugiat nulla est aliqua ex voluptate ex exercitation consectetur proident commodo do.</h5>
+                            <p class="fs-12 font-arial hint-text sm-text-center">Incididunt aliqua et velit reprehenderit non.</p>
                           </div>
                         </div>
                       </div>
@@ -83,9 +83,9 @@
                       <div class="col-xs-height col-middle text-left">
                         <div class="container">
                           <div class="col-sm-6 col-sm-offset-3 text-center">
-                            <h1 class="light" data-swiper-parallax="-15%">Simplicity beats confusion
+                            <h1 class="light" data-swiper-parallax="-15%">Labore magna do eiusmod 
                                         </h1>
-                            <p class="fs-12 font-arial hint-text">Available at themeforest, envato market place.</p>
+                            <p class="fs-12 font-arial hint-text">Culpa veniam deserunt ipsum ad.</p>
                           </div>
                         </div>
                       </div>
@@ -117,12 +117,12 @@
             <h5 class="block-title hint-text no-margin">Explore</h5>
             <div class="row">
               <div class="col-sm-5 col-md-4">
-                <h1 class="m-t-5">Different ways to Organize your Content.</h1>
+                <h1 class="m-t-5">Incididunt aliqua et velit reprehenderit non.</h1>
               </div>
               <div class="col-sm-7 col-md-8 no-padding xs-p-l-15 xs-p-r-15">
                 <div class="p-t-20 p-l-35 md-p-l-5 md-p-t-15">
-                  <p>Our long standing vision has been to bypass the usual admin dashboard structure, and move forward with a more sophisticated yet simple framework that would create a credible impact on the many conventional dashboard users.</p>
-                  <p class="hint-text font-arial small-text col-md-7 no-padding">A product is accessible when all people regardless of ability can navigate it, understand it, and use it to achieve goals.</p>
+                  <p>Minim magna est incididunt occaecat quis proident commodo dolor aute irure pariatur fugiat irure excepteur.</p>
+                  <p class="hint-text font-arial small-text col-md-7 no-padding">Minim nulla occaecat duis ut exercitation sint.</p>
                 </div>
               </div>
             </div>
@@ -137,27 +137,27 @@
             <div class="col-sm-4 no-padding">
               <div class="p-r-40 md-pr-30">
                 <img alt="" class="m-b-20" src="assets/images/Parachute.svg">
-                <h6 class="block-title p-b-5">Launch Design <i class="pg-arrow_right m-l-10"></i></h6>
-                <p class="m-b-30">Awesome notepad app. It gives you a quick and simple notepad editing experience when you write notes.</p>
-                <p class="muted font-arial small-text col-sm-9 no-padding">Icon Fonts, Vector SVG's, pages 14x14px vector icons.</p>
+                <h6 class="block-title p-b-5">Kegiatan <i class="pg-arrow_right m-l-10"></i></h6>
+                <p class="m-b-30">Fugiat quis magna nulla nulla qui veniam.</p>
+                <p class="muted font-arial small-text col-sm-9 no-padding">Est velit excepteur ullamco adipisicing eiusmod duis aliquip magna sint incididunt.</p>
               </div>
               <div class="visible-xs b-b b-grey-light m-t-30 m-b-30"></div>
             </div>
             <div class="col-sm-4 no-padding">
               <div class="p-r-40 md-pr-30">
                 <img alt="" class="m-b-20" src="assets/images/Prizemedalion.svg">
-                <h6 class="block-title p-b-5">Award Wining <i class="pg-arrow_right m-l-10"></i></h6>
-                <p class="m-b-30">Quick chat helps you to Keep in touch with your friends and colleagues while working. It has a unique responsive design.</p>
-                <p class="muted font-arial small-text col-sm-9 no-padding">Limitless possibilities, Highly customizable, Great UI & UX</p>
+                <h6 class="block-title p-b-5">Agenda <i class="pg-arrow_right m-l-10"></i></h6>
+                <p class="m-b-30">Eiusmod veniam ullamco nulla ea dolore nulla aliquip non deserunt.</p>
+                <p class="muted font-arial small-text col-sm-9 no-padding">Officia exercitation consectetur deserunt nulla sit aliquip exercitation commodo eu et commodo labore sunt.</p>
               </div>
               <div class="visible-xs b-b b-grey-light m-t-30 m-b-30"></div>
             </div>
             <div class="col-sm-4 no-padding">
               <div class="p-r-40 md-pr-30">
                 <img alt="" class="m-b-20" src="assets/images/Umbrella.svg">
-                <h6 class="block-title p-b-5">Shop ready <i class="pg-arrow_right m-l-10"></i></h6>
-                <p class="m-b-30">This is a very young collection of charts, with the goal of keeping these components very customizable.</p>
-                <p class="muted font-arial small-text col-sm-9 no-padding">Highly customizable NVD3, rickshaw, Spark Lines, D3.</p>
+                <h6 class="block-title p-b-5">Kontak <i class="pg-arrow_right m-l-10"></i></h6>
+                <p class="m-b-30">Ipsum velit officia amet laboris duis dolor sunt incididunt elit aliqua et exercitation.</p>
+                <p class="muted font-arial small-text col-sm-9 no-padding">Nulla deserunt adipisicing est dolore nulla esse ea enim cillum tempor elit pariatur laborum irure.</p>
               </div>
             </div>
           </div>
@@ -168,12 +168,12 @@
       <section class="bg-master-lightest p-b-85 p-t-75 no-overflow">
         <div class="container">
           <div class="md-p-l-20 md-p-r-20 xs-no-padding">
-            <h5 class="block-title hint-text no-margin">MENU CLIPPING</h5>
+            <h5 class="block-title hint-text no-margin">Gallery</h5>
             <div class="row">
               <div class="col-sm-5">
-                <h1 class="m-t-5 m-b-20">Easier to remember and access.</h1>
-                <p class="m-b-20">Menu clipping makes it easier to keep track of the page you are at & helps you to identify menu labels using abbreviations</p>
-                <p class="hint-text font-arial small-text col-md-8 no-padding">This is something extra to give users an exceptional user experience with a condensed menu.</p>
+                <h1 class="m-t-5 m-b-20">Sint do consectetur eiusmod dolore minim excepteur anim amet laborum.</h1>
+                <p class="m-b-20">Sint Lorem ea elit elit enim id.</p>
+                <p class="hint-text font-arial small-text col-md-8 no-padding">Ipsum veniam ipsum consectetur dolor exercitation dolore nisi consectetur.</p>
               </div>
               <div class="col-sm-7 no-padding xs-p-l-15 xs-p-r-15">
                 <div class="content-mask-md">
@@ -198,8 +198,8 @@
           <div class="md-p-l-20 xs-no-padding clearfix">
             <div class="row visible-sm">
               <div class="col-sm-8 m-b-40">
-                <h2>Save time, save money, look more professional and win more clients.</h2>
-                <p class="hint-text font-arial small-text col-md-4 col-sm-6 no-padding">Via Senior Vice President Design REVOX Ltd. 12345</p>
+                <h2>Officia exercitation in eu est dolore.</h2>
+                <p class="hint-text font-arial small-text col-md-4 col-sm-6 no-padding">Laboris cillum nostrud duis minim labore officia ut esse voluptate sint excepteur dolore.</p>
               </div>
             </div>
             <div class="row">
@@ -215,22 +215,22 @@
               </div>
               <div class="col-md-7 col-md-offset-1  col-sm-offset-2 col-sm-6">
                 <div class="clearfix hidden-sm">
-                  <h2>Save time, save money, look more professional and win more clients.</h2>
-                  <p class="hint-text font-arial small-text col-md-4 col-sm-6 no-padding">Via Senior Vice President Design REVOX Ltd. 12345</p>
+                  <h2>In aute ipsum veniam eiusmod qui laborum id reprehenderit quis velit.</h2>
+                  <p class="hint-text font-arial small-text col-md-4 col-sm-6 no-padding">Consectetur enim in incididunt proident quis esse sit eiusmod pariatur nulla adipisicing aliqua.</p>
                 </div>
                 <div class="col-md-9 col-md-offset-1 col-sm-11">
                   <div class="p-t-50">
                     <dl>
-                      <dt class="block-title p-b-15 text-black">Launch Design <i class="pg-arrow_right m-l-10"></i></dt>
-                      <dd class="m-b-30">Our long standing vision has been to bypass the usual admin dashboard structure, and move forward with a more sophisticated yet simple framework</dd>
+                      <dt class="block-title p-b-15 text-black">Organisasi <i class="pg-arrow_right m-l-10"></i></dt>
+                      <dd class="m-b-30">Id dolor incididunt sit culpa sunt dolore eu cupidatat anim deserunt.</dd>
                     </dl>
                     <dl>
                       <dt class="block-title p-b-15 text-black">Responsive <i class="pg-arrow_right m-l-10"></i></dt>
-                      <dd class="m-b-30">Our long standing vision has been to bypass the usual admin dashboard structure, and move forward with a</dd>
+                      <dd class="m-b-30">Et commodo nulla dolore velit commodo est deserunt ea quis anim nisi tempor in sunt.</dd>
                     </dl>
                     <dl>
-                      <dt class="block-title text-black p-b-15 ">Launch Your Design <i class="pg-arrow_right m-l-10"></i></dt>
-                      <dd class="m-b-30">Our long standing vision has been to bypass the usual admin dashboard structure.</dd>
+                      <dt class="block-title text-black p-b-15 ">Test123 <i class="pg-arrow_right m-l-10"></i></dt>
+                      <dd class="m-b-30">Exercitation ut consequat veniam officia nulla reprehenderit elit fugiat enim.</dd>
                     </dl>
                   </div>
                 </div>
@@ -249,10 +249,7 @@
               <div class="container">
                 <div class="col-sm-8 col-sm-offset-2">
                   <h3 class="text-center">
-                            Our motivation "Perfection simplified" helps to
-                            craft meaningful experiences for the people around us, This mission inspires us
-                            to jump out of bed each day and guides every aspect of what we
-                            do.
+                            Proident reprehenderit excepteur enim voluptate id sit occaecat mollit est esse pariatur. Sit occaecat magna ex aliquip adipisicing aute. Consectetur adipisicing esse eu reprehenderit tempor excepteur anim fugiat esse quis consequat nulla.
                             </h3>
                   <img alt="" class="m-t-20" src="assets/images/signature_sample.png">
                 </div>
@@ -264,7 +261,7 @@
               <div class="container">
                 <div class="col-sm-8 col-sm-offset-2">
                   <h3 class="text-center">
-                            The dashboard will synergize with the colour selection made by the user and appropriately amend. Similarly, all other elements will sync according to the base colours.
+                            Magna irure quis reprehenderit nulla laborum elit. Cillum minim excepteur ipsum ipsum cillum. Nostrud mollit dolore velit culpa ea sunt nulla duis. Eu ullamco amet cupidatat ad quis officia excepteur laborum labore esse dolor occaecat ipsum voluptate.
                             </h3>
                   <img alt="" class="m-t-20" src="assets/images/signature_sample.png">
                 </div>
@@ -276,7 +273,7 @@
               <div class="container">
                 <div class="col-sm-8 col-sm-offset-2">
                   <h3 class="text-center">
-                            Given our emphasis on operational efficiency and optimization, we have focused heavily on GPU performance with animation to ensure an ultra smooth and fast User Experience.
+                            Aute aliquip labore et est irure ipsum sit excepteur. Officia anim anim et enim Lorem non dolor. Exercitation fugiat voluptate duis dolor adipisicing culpa laboris culpa exercitation ex exercitation et. Ipsum eu consequat exercitation irure ex qui pariatur voluptate excepteur anim cupidatat anim.
                             </h3>
                   <img alt="" class="m-t-20" src="assets/images/signature_sample.png">
                 </div>
