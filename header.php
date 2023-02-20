@@ -54,7 +54,7 @@
           <div class="header-inner">
             <ul class="menu">
               <li>
-                <a href="#" class="active">Beranda </a>
+                <a href="<?php echo site_url('/') ?>" class="active">Beranda</a>
               </li>
               <li class="classic">
                 <a href="javascript:;">
@@ -64,10 +64,10 @@
                   <span class="arrow"></span>
                   <ul>                   
                     <li>
-                      <a href="#" target="_blank">Wilayah & Cabang</a>
+                      <a href="<?php echo site_url('/wilayah') ?>">Wilayah & Cabang</a>
                     </li>
                     <li>
-                      <a href="#" target="_blank">Perhimpunan</a>
+                      <a href="<?php echo site_url('/perhimpunan') ?>">Perhimpunan</a>
                     </li>
                   </ul>
                 </nav>
@@ -81,7 +81,7 @@
                   <span class="arrow"></span>
                   <ul>                   
                     <li>
-                      <a href="#" target="_blank">Galeri Foto</a>
+                      <a href="<?php echo site_url('/galeri') ?>">Galeri Foto</a>
                     </li>            
                   </ul>
                 </nav>
