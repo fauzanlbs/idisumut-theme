@@ -381,9 +381,10 @@ body.pace-white .pace .pace-progress {
 .header .menu > li {
   display: inline-block;
   list-style: none;
-  font-size: 13px;
+  font-size: 14px;
   margin-right: 12px;
   vertical-align: middle;
+  font-weight: bold;
 }
 .header .menu > li.multiline > nav {
   top: 43px;

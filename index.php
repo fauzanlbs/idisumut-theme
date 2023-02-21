@@ -24,7 +24,7 @@
                       <div class="col-xs-height col-middle text-left">
                         <div class="container">
                           <div class="col-md-6 no-padding col-xs-10 col-xs-offset-1">
-                            <h1 class="light sm-text-center" data-swiper-parallax="-15%"> IDISUMUT</h1>
+                            <h1 class="sm-text-center" data-swiper-parallax="-15%"> IDISUMUT</h1>
                             <h4 class="sm-text-center">Labore magna do eiusmod culpa veniam deserunt ipsum ad.</h4>
                             <h5 class="block-title text-white sm-text-center">Officia reprehenderit sunt veniam quis est reprehenderit sunt id velit culpa in</h5>
                             <p class="fs-12 font-arial hint-text sm-text-center">ut exercitation sunt. Et aute minim voluptate tempor fugiat. Amet id tempor adipisicing aliquip do amet esse elit.</p>
