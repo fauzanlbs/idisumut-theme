@@ -88,7 +88,7 @@
               </li>              
 
               <li>
-                <a href="contact.html">Kontak</a>
+                <a href="<?php echo site_url('/kontak') ?>">Kontak</a>
               </li>
             </ul>
             <a href="#" class="search-toggle hidden-xs hidden-sm" data-toggle="search"><i class="fs-14 pg-search"></i></a>
