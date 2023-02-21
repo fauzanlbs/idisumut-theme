@@ -13,7 +13,7 @@
                 <div class="slider-wrapper">
                   <div class="background-wrapper" data-swiper-parallax="30%">
                     <!-- YOUR BACKGROUND IMAGE HERE, YOU CAN ALSO USE IMG with the same classes -->
-                    <div class="background" data-pages-bg-image="assets/images/hero_1.jpg"></div>
+                    <div class="background" style="background-image: url(<?php echo get_theme_file_uri('assets/images/doctor-bg3.jpg') ?>);height: 100%;background-size: cover;background-position: center;background-repeat: no-repeat;"></div>
                   </div>
                 </div>
                 <!-- END IMAGE PARRALAX -->
