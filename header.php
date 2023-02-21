@@ -71,22 +71,16 @@
                     </li>
                   </ul>
                 </nav>
-              </li>              
-
-              <li class="classic">
-                <a href="javascript:;">
-                    Kegiatan  <i class="pg-arrow_minimize m-l-5"></i>
-                  </a>
-                <nav class="classic ">
-                  <span class="arrow"></span>
-                  <ul>                   
-                    <li>
-                      <a href="<?php echo site_url('/galeri') ?>">Galeri Foto</a>
-                    </li>            
-                  </ul>
-                </nav>
-              </li>              
-
+              </li>
+              <li>
+                <a href="<?php echo site_url('/berita') ?>">Berita</a>
+              </li>
+              <li>
+                <a href="<?php echo site_url('/galeri') ?>">Galeri</a>
+              </li>
+              <li>
+                <a href="<?php echo site_url('/event') ?>">Event</a>
+              </li>                       
               <li>
                 <a href="<?php echo site_url('/kontak') ?>">Kontak</a>
               </li>
