@@ -114,23 +114,26 @@
       <section class="bg-master-lightest p-b-85">
         <div class="container">
           <div class="md-p-l-20 md-p-r-20 xs-no-padding">
-            <h3 class="no-margin">Berita</h3>
+            <h3 class="text-center">Berita Terbaru</h3>
 
             <?php
-                $homepageEvent = new WP_Query(array(
-                    'posts_per_page' => 6,
+                $homepageBerita = new WP_Query(array(
+                    'posts_per_page' => 3,
                     'post_type' => 'post'
                 ));
 
-                while($homepageEvent->have_posts()) {
-                    $homepageEvent->the_post(); ?>
-                    <li>
-                        <h5><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h5>
-                        <p><?php echo wp_trim_words(get_the_content(), 18); ?>
-                        <a href="<?php the_permalink(); ?>">Selengkapnya</a>
-                        </p> 
+                while($homepageBerita->have_posts()) {
+                    $homepageBerita->the_post(); ?>
+                <section class="row">
 
-                    </li>
+                                <div class="row">
+                                    <h6 class="block-title p-b-5"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a> </i></h6>
+                                    <p class="m-b-30"><?php echo wp_trim_words(get_the_content(), 18); ?></p>
+                                    <p class="muted font-arial small-text col-sm-9 no-padding"> <a href="<?php the_permalink(); ?>">Selengkapnya</a></p>
+                                </div>
+
+                    
+                </section>
                 <?php }
             ?>
             <!-- <div class="row">
@@ -148,24 +151,27 @@
         </div>
 
         <div class="container">
-          <div class="md-p-l-20 md-p-r-20 xs-no-padding">
-            <h3 class="no-margin">Event</h3>
+            <div class="md-p-l-20 md-p-r-20 xs-no-padding">
+              <h3 class="text-center">Event Terbaru</h3>
 
             <?php
                 $homepageEvent = new WP_Query(array(
-                    'posts_per_page' => 6,
+                    'posts_per_page' => 3,
                     'post_type' => 'event'
                 ));
 
                 while($homepageEvent->have_posts()) {
                     $homepageEvent->the_post(); ?>
-                    <li>
-                        <h5><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h5>
-                        <p><?php echo wp_trim_words(get_the_content(), 18); ?>
-                        <a href="<?php the_permalink(); ?>">Selengkapnya</a>
-                        </p> 
+                <section class="row">
 
-                    </li>
+                                <div class="row">
+                                    <h6 class="block-title p-b-5"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a> </i></h6>
+                                    <p class="m-b-30"><?php echo wp_trim_words(get_the_content(), 18); ?></p>
+                                    <p class="muted font-arial small-text col-sm-9 no-padding"> <a href="<?php the_permalink(); ?>">Selengkapnya</a></p>
+                                </div>
+
+                    
+                </section>
                 <?php }
             ?>
             <!-- <div class="row">

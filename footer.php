@@ -2,7 +2,7 @@
 <!-- BEGIN FOOTER -->
    <section class="p-b-55 p-t-75 xs-p-b-20 bg-master-darker ">
         <div class="container">
-          <div class="row">
+          <!-- <div class="row">
             <div class="col-sm-4 col-xs-12 xs-m-b-40">
               
             </div>
@@ -13,8 +13,8 @@
                 <li class="m-b-5 no-padding"><a href="#" class="link text-white">Test2</a></li>                
               </ul>
             </div>
-          </div>
-          <p class="fs-12 hint-text p-t-10 text-white">Copyright &copy; 2023 Ikatan Dokter Indonesia Wilayah Sumatera Utara.</p>
+          </div> -->
+          <p class="text-center fs-12 hint-text p-t-10 text-white">Copyright &copy; 2023 Ikatan Dokter Indonesia Wilayah Sumatera Utara.</p>
         </div>
       </section>
       <!-- END FOOTER -->
