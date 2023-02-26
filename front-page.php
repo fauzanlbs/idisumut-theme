@@ -120,7 +120,7 @@
     <section class="bg-master-lightest p-b-85">
         <div class="container">
             <!-- <div class=""> -->
-            <h3 class="text-center">Berita Terbaru</h3>
+            <h3 class="text-center p-b-45">Berita Terbaru</h3>
 
             <?php echo do_shortcode( '[the-post-grid id="52" title="Berita"]' ); ?>
 
@@ -261,7 +261,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-4 col-sm-4">
+                <!-- <div class="col-md-4 col-sm-4">
                     <div class="device_morph" data-pages="auto-scroll">
                         <img alt="" class="xs-image-responsive-height image-responsive-width"
                             src="assets/images/b_phone.png" id="mobile_phone">
@@ -271,8 +271,8 @@
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-md-7 col-md-offset-1  col-sm-offset-2 col-sm-6">
+                </div> -->
+                <!-- <div class="col-md-7 col-md-offset-1  col-sm-offset-2 col-sm-6"> -->
 
                     <!-- <div class="clearfix hidden-sm">
                   <h2>In aute ipsum veniam eiusmod qui laborum id reprehenderit quis velit.</h2>
@@ -294,7 +294,7 @@
                     </dl>
                   </div>
                 </div> -->
-                </div>
+                <!-- </div> -->
             </div>
         </div>
     </div>
