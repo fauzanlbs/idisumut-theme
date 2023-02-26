@@ -917,6 +917,7 @@ body.pace-white .pace .pace-progress {
 .jumbotron h1 {
   font-size: 44px;
   color: #2c2c2c;
+  font-weight:bold;
 }
 .pace .pace-progress {
   background-color: #6d5cae;
@@ -1224,7 +1225,7 @@ body.pace-white .pace .pace-progress {
   display: inline-block;
   letter-spacing: 0.02em;
   font-size: 12px;
-  font-weight: 600;
+  font-weight: bold;
   margin: 0;
   padding: 0;
   line-height: normal;
