@@ -87,7 +87,7 @@
             </ul>
             <a href="#" class="search-toggle hidden-xs hidden-sm" data-toggle="search"><i class="fs-14 pg-search"></i></a>
             <!-- BEGIN COPYRIGHT FOR MOBILE -->
-            <div class="font-arial m-l-35 m-r-35 m-b-20 visible-sm visible-xs m-t-20">
+            <div class="font-monserrat m-l-35 m-r-35 m-b-20 visible-sm visible-xs m-t-20">
              
               <p class="fs-11 small-text muted">Copyright &copy; 2023 Ikatan Dokter Indonesia Wilayah Sumatera Utara.</p>
             </div>

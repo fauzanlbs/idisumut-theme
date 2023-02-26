@@ -38,6 +38,8 @@ html,
 } */
 body {
   height: 100%;
+  font-weight: bold !important;
+  /* color:#800000 !important; */
 }
 /* Body Triggers for layout options 
 ------------------------------------------------------------------
@@ -384,7 +386,7 @@ body.pace-white .pace .pace-progress {
 .header .menu > li {
   display: inline-block;
   list-style: none;
-  font-size: 14px;
+  font-size: 16px;
   margin-right: 12px;
   vertical-align: middle;
   font-weight: bold;
@@ -470,8 +472,8 @@ body.pace-white .pace .pace-progress {
   opacity: 1;
 }
 .header .menu > li > a > span {
-  font-size: 12px;
-  font-family: Arial;
+  font-size: 14px;
+  font-family: 'Montserrat';
   color: inherit;
   opacity: 0.8;
   display: block;
@@ -643,7 +645,7 @@ body.pace-white .pace .pace-progress {
   text-transform: uppercase;
   font-family: 'Montserrat';
   opacity: 0.5;
-  font-size: 11px;
+  font-size: 13px;
   line-height: 30px;
 }
 .header .menu > li > .classic ul > li a:focus {
@@ -698,7 +700,7 @@ body.pace-white .pace .pace-progress {
   text-transform: uppercase;
   font-family: 'Montserrat';
   line-height: 35px;
-  font-size: 11px;
+  font-size: 13px;
 }
 .header .menu > li > .horizontal ul li a:focus {
   opacity: 0.8;
@@ -741,7 +743,7 @@ body.pace-white .pace .pace-progress {
   text-transform: uppercase;
   font-family: 'Montserrat';
   opacity: 0.5;
-  font-size: 11px;
+  font-size: 13px;
   line-height: 30px;
 }
 .header .menu > li > .mega .container ul.sub-menu > li a:focus {
@@ -761,7 +763,7 @@ body.pace-white .pace .pace-progress {
 }
 .header .menu > li > .mega .container .sub-menu-heading {
   color: #000000;
-  font-size: 12px;
+  font-size: 13px;
   text-transform: uppercase;
   font-family: 'Montserrat';
   margin: 0;

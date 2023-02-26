@@ -120,7 +120,7 @@
     <section class="bg-master-lightest p-b-85">
         <div class="container">
             <!-- <div class=""> -->
-            <h3 class="text-center p-b-65">Berita Terbaru</h3>
+            <h4 class="text-center p-b-65">Berita Terbaru</h4>
 
             <div>
                 <?php echo do_shortcode( '[the-post-grid id="52" title="Berita"]' ); ?>
@@ -130,7 +130,7 @@
 
 <div class="container">
     <div class="md-p-l-20 md-p-r-20 xs-no-padding">
-        <h3 class="text-center">Event Terbaru</h3>
+        <h4 class="text-center">Event Terbaru</h4>
 
         <!-- BEGIN EVENT SECTION -->
         <section class="p-b-85 p-t-75 p-b-65 p-t-55">
@@ -301,59 +301,7 @@
     </div>
 </section>
 <!-- END CONTENT SECTION -->
-<section class="p-b-85 p-t-75 ">
-    <!-- BEGIN TESTIMONIALS SLIDER-->
-    <div class="swiper-container" id="testimonials_slider">
-        <div class="swiper-wrapper">
-            <!-- BEGIN TESTIMONIAL -->
-            <div class="swiper-slide">
-                <div class="container">
-                    <div class="col-sm-8 col-sm-offset-2">
-                        <h3 class="text-center">
-                            Proident reprehenderit excepteur enim voluptate id sit occaecat mollit est esse pariatur.
-                            Sit occaecat magna ex aliquip adipisicing aute. Consectetur adipisicing esse eu
-                            reprehenderit tempor excepteur anim fugiat esse quis consequat nulla.
-                        </h3>
-                        <img alt="" class="m-t-20" src="assets/images/signature_sample.png">
-                    </div>
-                </div>
-            </div>
-            <!-- END TESTIMONIAL -->
-            <!-- BEGIN TESTIMONIAL -->
-            <div class="swiper-slide">
-                <div class="container">
-                    <div class="col-sm-8 col-sm-offset-2">
-                        <h3 class="text-center">
-                            Magna irure quis reprehenderit nulla laborum elit. Cillum minim excepteur ipsum ipsum
-                            cillum. Nostrud mollit dolore velit culpa ea sunt nulla duis. Eu ullamco amet cupidatat ad
-                            quis officia excepteur laborum labore esse dolor occaecat ipsum voluptate.
-                        </h3>
-                        <img alt="" class="m-t-20" src="assets/images/signature_sample.png">
-                    </div>
-                </div>
-            </div>
-            <!-- END TESTIMONIAL -->
-            <!-- BEGIN TESTIMONIAL -->
-            <div class="swiper-slide">
-                <div class="container">
-                    <div class="col-sm-8 col-sm-offset-2">
-                        <h3 class="text-center">
-                            Aute aliquip labore et est irure ipsum sit excepteur. Officia anim anim et enim Lorem non
-                            dolor. Exercitation fugiat voluptate duis dolor adipisicing culpa laboris culpa exercitation
-                            ex exercitation et. Ipsum eu consequat exercitation irure ex qui pariatur voluptate
-                            excepteur anim cupidatat anim.
-                        </h3>
-                        <img alt="" class="m-t-20" src="assets/images/signature_sample.png">
-                    </div>
-                </div>
-            </div>
-            <!-- END TESTIMONIAL -->
-        </div>
-        <!-- Add Navigation -->
-        <div class="swiper-pagination relative p-t-20"></div>
-    </div>
-    <!-- END TESTIMONIALS -->
-</section>
+
 
 <?php
 get_footer();
