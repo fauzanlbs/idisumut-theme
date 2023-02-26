@@ -16,7 +16,7 @@ while (have_posts()) {
 
     <div class="container">
         <!-- <div class=""> -->
-        <h3 class="text-center">Berita Terbaru</h3>
+        <!-- <h3 class="text-center">Berita Terbaru</h3> -->
 
         <!-- BEGIN BERITA SECTION -->
         <section class="p-b-85 p-t-75 p-b-65 p-t-55">
