@@ -38,7 +38,7 @@ get_header();
                                         <a href="<?php the_permalink(); ?>" title="<?php the_title_attribute(); ?>">
                                             <img width="300" height="225"
                                                 src="https://thumbs.dreamstime.com/b/no-thumbnail-images-placeholder-forums-blogs-websites-148010338.jpg"
-                                                class="attachment-medium size-medium wp-post-image" alt="" decoding="async"
+                                                class="attachment-medium size-medium wp-post-image img-rounded" alt="" decoding="async"
                                                 loading="lazy" sizes="(max-width: 300px) 100vw, 300px"> </img> </a>
                                     <?php
                                     endif; ?>
