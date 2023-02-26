@@ -120,10 +120,11 @@
     <section class="bg-master-lightest p-b-85">
         <div class="container">
             <!-- <div class=""> -->
-            <h3 class="text-center p-b-45">Berita Terbaru</h3>
+            <h3 class="text-center p-b-65">Berita Terbaru</h3>
 
-            <?php echo do_shortcode( '[the-post-grid id="52" title="Berita"]' ); ?>
-
+            <div class="p-t-30">
+                <?php echo do_shortcode( '[the-post-grid id="52" title="Berita"]' ); ?>
+            </div>
         </div>
 </div>
 
