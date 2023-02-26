@@ -109,7 +109,7 @@ body.pace-white .pace .pace-progress {
   top: 0;
 }
 .header.transparent-light {
-  background-color: transparent;
+  /* background-color: transparent; */
 }
 .header.transparent-light .menu > li > a:not(.btn) {
   color: #ffffff;
@@ -157,9 +157,9 @@ body.pace-white .pace .pace-progress {
 .header.transparent-light .menu-toggler .three {
   background-color: #ffffff;
 }
-.header.transparent-dark {
+/* .header.transparent-dark {
   background-color: transparent;
-}
+} */
 .header.transparent-dark.alternate .menu > li > a:before {
   color: #ffffff;
   max-width: 100%;

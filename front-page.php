@@ -26,7 +26,7 @@
                                     <div class="col-xs-height col-middle text-left">
                                         <div class="container">
                                             <div class="col-md-6 no-padding col-xs-10 col-xs-offset-1">
-                                                <h1 class="sm-text-center" data-swiper-parallax="-15%"> IDISUMUT</h1>
+                                                <h1 class="sm-text-center font-montserrat" data-swiper-parallax="-15%"> IDISUMUT</h1>
                                                 <h5 class="block-title sm-text-center">Labore magna do eiusmod culpa
                                                     veniam deserunt ipsum ad.</h5>
                                                 <!-- <h5 class="block-title text-white sm-text-center">Officia reprehenderit sunt veniam quis est reprehenderit sunt id velit culpa in</h5>
@@ -120,7 +120,7 @@
     <section class="bg-master-lightest p-b-85">
         <div class="container">
             <!-- <div class=""> -->
-            <h4 class="text-center p-b-65">Berita Terbaru</h4>
+            <h2 class="text-center p-b-65 font-montserrat">Berita Terbaru</h2>
 
             <div>
                 <?php echo do_shortcode( '[the-post-grid id="52" title="Berita"]' ); ?>
@@ -130,7 +130,7 @@
 
 <div class="container">
     <div class="md-p-l-20 md-p-r-20 xs-no-padding">
-        <h4 class="text-center">Event Terbaru</h4>
+        <h2 class="text-center font-montserrat">Event Terbaru</h2>
 
         <!-- BEGIN EVENT SECTION -->
         <section class="p-b-85 p-t-75 p-b-65 p-t-55">
