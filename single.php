@@ -14,10 +14,10 @@ get_header();
     <!-- BEGIN PORTFOLIO SECTION -->
     <section class="p-b-40 p-t-40">
       <div class="container">
-        <div class="m-b-30">
+        <div class="m-b-30 font-montserrat">
           <h1 class="text-center "></h1>
           <div class="b-b b-grey m-t-30"></div>
-            <?php the_content(); ?>
+           <?php the_content(); ?>
         </div>
       </div>
     
