@@ -122,7 +122,7 @@
             <!-- <div class=""> -->
             <h3 class="text-center p-b-65">Berita Terbaru</h3>
 
-            <div class="p-t-30">
+            <div>
                 <?php echo do_shortcode( '[the-post-grid id="52" title="Berita"]' ); ?>
             </div>
         </div>
