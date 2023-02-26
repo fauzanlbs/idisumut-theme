@@ -33,9 +33,9 @@ Generated From LESS
 [1. Layouts]
 */
 html,
-img {
+/* img.thumbnail {
   border-radius: 3%;
-}
+} */
 body {
   height: 100%;
 }
