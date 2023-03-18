@@ -1,6 +1,6 @@
 
 <!-- BEGIN FOOTER -->
-   <section class="p-b-55 p-t-75 xs-p-b-20 bg-master-darker ">
+   <section style="background-image: url(<?php echo get_theme_file_uri('assets/images/footer-idi.jpg') ?>);height: 25%;background-size: cover;background-position: center;background-repeat: no-repeat;">
         <div class="container">
           <!-- <div class="row">
             <div class="col-sm-4 col-xs-12 xs-m-b-40">
@@ -14,7 +14,8 @@
               </ul>
             </div>
           </div> -->
-          <p class="text-center fs-12 hint-text p-t-10 text-white">Copyright &copy; 2023 Ikatan Dokter Indonesia Wilayah Sumatera Utara.</p>
+          <!-- <p class="text-center fs-12 hint-text p-t-10 text-white">Copyright &copy; 2023 Ikatan Dokter Indonesia Wilayah Sumatera Utara.</p> -->
+        
         </div>
       </section>
       <!-- END FOOTER -->
