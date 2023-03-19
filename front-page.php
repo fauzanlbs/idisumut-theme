@@ -139,55 +139,7 @@
       </section> -->
 <!-- END CONTENT SECTION -->
 <!-- BEGIN CONTENT SECTION -->
-<section class="p-b-85 p-t-75 bg-master-lighter">
-    <div class="container">
-        <div class="md-p-l-20 xs-no-padding clearfix">
-            <div class="row visible-sm">
-                <div class="col-sm-8 m-b-40">
-                    <h2>Officia exercitation in eu est dolore.</h2>
-                    <p class="hint-text font-arial small-text col-md-4 col-sm-6 no-padding">Laboris cillum nostrud duis
-                        minim labore officia ut esse voluptate sint excepteur dolore.</p>
-                </div>
-            </div>
-            <div class="row">
-                <!-- <div class="col-md-4 col-sm-4">
-                    <div class="device_morph" data-pages="auto-scroll">
-                        <img alt="" class="xs-image-responsive-height image-responsive-width"
-                            src="assets/images/b_phone.png" id="mobile_phone">
-                        <div class="screen">
-                            <div class="iphone-border">
-                                <img src="assets/images/mobile_preview.jpg" class="image-responsive-height lazy" alt="">
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
-                <!-- <div class="col-md-7 col-md-offset-1  col-sm-offset-2 col-sm-6"> -->
 
-                    <!-- <div class="clearfix hidden-sm">
-                  <h2>In aute ipsum veniam eiusmod qui laborum id reprehenderit quis velit.</h2>
-                  <p class="hint-text font-arial small-text col-md-4 col-sm-6 no-padding">Consectetur enim in incididunt proident quis esse sit eiusmod pariatur nulla adipisicing aliqua.</p>
-                </div>
-                <div class="col-md-9 col-md-offset-1 col-sm-11">
-                  <div class="p-t-50">
-                    <dl>
-                      <dt class="block-title p-b-15 text-black">Organisasi <i class="pg-arrow_right m-l-10"></i></dt>
-                      <dd class="m-b-30">Id dolor incididunt sit culpa sunt dolore eu cupidatat anim deserunt.</dd>
-                    </dl>
-                    <dl>
-                      <dt class="block-title p-b-15 text-black">Responsive <i class="pg-arrow_right m-l-10"></i></dt>
-                      <dd class="m-b-30">Et commodo nulla dolore velit commodo est deserunt ea quis anim nisi tempor in sunt.</dd>
-                    </dl>
-                    <dl>
-                      <dt class="block-title text-black p-b-15 ">Test123 <i class="pg-arrow_right m-l-10"></i></dt>
-                      <dd class="m-b-30">Exercitation ut consequat veniam officia nulla reprehenderit elit fugiat enim.</dd>
-                    </dl>
-                  </div>
-                </div> -->
-                <!-- </div> -->
-            </div>
-        </div>
-    </div>
-</section>
 <!-- END CONTENT SECTION -->
 
 
