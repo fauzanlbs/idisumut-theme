@@ -2,7 +2,7 @@
 
 <div class="page-wrappers">
     <!-- BEGIN JUMBOTRON -->
-    
+    <?php echo do_shortcode( '[the-post-grid id="122" title="Main grid"]' ); ?>
     <!-- END JUMBOTRON -->
     <!-- BEGIN CONTENT SECTION -->
     <section class="bg-master-lightest p-b-85">
