@@ -26,10 +26,12 @@
           <!-- .header-inner Allows to vertically Align elements to the Center-->
           <div class="header-inner">
             <!-- BEGIN LOGO -->
+            <a href="<?php echo site_url('/') ?>" class="active">
             <img width="35" height="35"
             src="<?php echo get_theme_file_uri('assets/images/logo-idi.png') ?>"
             class="attachment-medium size-medium wp-post-image img-rounded" alt="" decoding="async"
             loading="lazy" sizes="(max-width: 50px) 50vw, 50px"> </img> 
+            </a>
           </div>
         </div>
         <!-- BEGIN HEADER TOGGLE FOR MOBILE & TABLET -->
