@@ -11,7 +11,7 @@
             <h4 class="text-center font-montserrat" style="margin:20px;">Berita Terbaru</h4>
 
             
-            <?php echo do_shortcode( '[the-post-grid id="43" title="Home berita"]' ); ?>
+            <?php echo do_shortcode( '[the-post-grid id="52" title="Berita"]' ); ?>
             
         </div>
 </div>
