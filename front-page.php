@@ -2,7 +2,7 @@
 
 <div class="page-wrappers">
     <!-- BEGIN JUMBOTRON -->
-    <div class="container" style="padding:30px">
+    <div class="container" style="padding:55px">
     <?php echo do_shortcode( '[the-post-grid id="122" title="Main grid"]' ); ?>
     </div>
     <!-- END JUMBOTRON -->
