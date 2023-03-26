@@ -23,7 +23,7 @@
     <h4 class="text-center font-montserrat" style="margin:20px;">Event Terbaru</h4>
 
         <!-- BEGIN EVENT SECTION -->
-        <section class="p-b-85 p-t-75 p-b-65 p-t-55">
+        <section class="p-b-85 p-t-15 p-b-65 p-t-15">
             <div class="container">
                 <div class="md-p-l-20 xs-no-padding clearfix">
                 <?php echo do_shortcode( '[the-post-grid id="141" title="Event"]' ); ?>
